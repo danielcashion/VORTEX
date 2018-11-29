@@ -1,8 +1,8 @@
 # Welcome to the 
-## Villanova 
-## Online 
-## Research and 
-## Teaching
-## EXchange
+## **V**illanova 
+## **O**nline 
+## **R**esearch and 
+## **T**eaching
+## **EX**change
 
 Here you will find plenty of interesting items.
